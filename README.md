@@ -1,5 +1,7 @@
 # OmniStack
-Projeto desenvolvido com o pessoal da Rocketseat na semana OmniStack 11. Aplicação desenvolvida em React e React Native
+Projeto desenvolvido com o pessoal da Rocketseat na semana OmniStack 11. 
+
+Aplicação desenvolvida em React, React Native e NodeJS
 
 ![Capturar](https://user-images.githubusercontent.com/62246206/79944432-ddf84f00-8441-11ea-8eb2-f88da14afbc2.PNG)
 
